@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T07:45:59.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oR3KuEjppFAUsenV0NYI" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T07:51:14.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="x8eaex70Vd_ycuytqRA-" version="20.3.7" type="github">
   <diagram id="pC18JTB6PQhipaGgzsgf" name="Página-1">
     <mxGraphModel dx="1447" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,10 +58,10 @@
         <mxCell id="lkzKdXTNVbICAeqFOsuQ-30" value="DISTRIBUIDORES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8E8AFF;" parent="1" vertex="1">
           <mxGeometry x="293" y="595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lkzKdXTNVbICAeqFOsuQ-32" value="1:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lkzKdXTNVbICAeqFOsuQ-32" value="1:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="702" y="308" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lkzKdXTNVbICAeqFOsuQ-34" value="N:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="lkzKdXTNVbICAeqFOsuQ-34" value="1:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="483" y="369" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lkzKdXTNVbICAeqFOsuQ-35" value="N:M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
