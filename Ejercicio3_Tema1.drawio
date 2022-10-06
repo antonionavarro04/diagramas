@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T08:12:26.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="E7bZIBwcpxspPjtVBSPy" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T10:04:20.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dDy4_F3KZTnBIm0z_xdS" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nWsmJTP2L-feIXoF9uxJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="nWsmJTP2L-feIXoF9uxJ-2" target="nWsmJTP2L-feIXoF9uxJ-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NoCUBr3YmFsB6c4Bj7rv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nWsmJTP2L-feIXoF9uxJ-2" target="NoCUBr3YmFsB6c4Bj7rv-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NoCUBr3YmFsB6c4Bj7rv-33" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nWsmJTP2L-feIXoF9uxJ-2" target="nWsmJTP2L-feIXoF9uxJ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nWsmJTP2L-feIXoF9uxJ-2" value="AUTOR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="610" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nWsmJTP2L-feIXoF9uxJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="nWsmJTP2L-feIXoF9uxJ-3" target="nWsmJTP2L-feIXoF9uxJ-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,12 +68,12 @@
           <mxGeometry x="570" y="570" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NoCUBr3YmFsB6c4Bj7rv-17" value="&lt;u&gt;DNI&lt;/u&gt;&lt;br&gt;Nombre&lt;br&gt;Apellidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="220" width="70" height="60" as="geometry" />
+          <mxGeometry x="605" y="220" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NoCUBr3YmFsB6c4Bj7rv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="669.5" y="320" as="sourcePoint" />
-            <mxPoint x="669.5" y="280" as="targetPoint" />
+            <mxPoint x="639.5" y="320" as="sourcePoint" />
+            <mxPoint x="639.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NoCUBr3YmFsB6c4Bj7rv-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NoCUBr3YmFsB6c4Bj7rv-20" target="NoCUBr3YmFsB6c4Bj7rv-24">
