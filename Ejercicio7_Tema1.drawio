@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T08:51:50.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="I30b-CB1YEjqhOPCfaVh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T09:01:09.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ybdVnlGoc7UY1s7Fw3Yt" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="723" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1553" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         <mxCell id="6TOTnj2t2x63CBn26Bns-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="6TOTnj2t2x63CBn26Bns-36" target="6TOTnj2t2x63CBn26Bns-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6TOTnj2t2x63CBn26Bns-36" value="Nº Registro" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+        <mxCell id="6TOTnj2t2x63CBn26Bns-36" value="Nº Revista" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="950" y="353" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6TOTnj2t2x63CBn26Bns-37" value="&lt;u&gt;H: Nº Registro&lt;br&gt;&lt;/u&gt;Fecha&lt;br&gt;Nº Paginas&lt;br&gt;Nº Ejempares Vendidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
@@ -94,7 +94,7 @@
         <mxCell id="6TOTnj2t2x63CBn26Bns-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6TOTnj2t2x63CBn26Bns-38" target="6TOTnj2t2x63CBn26Bns-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6TOTnj2t2x63CBn26Bns-38" value="CONTIENE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="6TOTnj2t2x63CBn26Bns-38" value="&lt;i&gt;ID&lt;/i&gt;&lt;br&gt;CONTIENE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="804" y="343" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6TOTnj2t2x63CBn26Bns-43" value="1:1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
