@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T08:06:21.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="jqruWbX1jJh4CadLCAIK" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T08:06:31.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="dmINBjfLQIyCEJ3j5Woy" version="20.4.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -96,7 +96,7 @@
           <mxGeometry x="460" y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-N8Wu7EY1_5mGeQ1VmYi-30" value="Nº Tarjetas&lt;br&gt;H. Comienzo&lt;br&gt;H Fin" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="80" y="428" width="80" height="52" as="geometry" />
+          <mxGeometry x="50" y="414" width="80" height="52" as="geometry" />
         </mxCell>
         <mxCell id="-N8Wu7EY1_5mGeQ1VmYi-31" value="Nº Seguridad Social&lt;br&gt;&lt;u&gt;DNI&lt;/u&gt;&lt;br&gt;Nombre&lt;br&gt;Apellidos&lt;br&gt;Fecha de Nacimiento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="300" y="414" width="150" height="100" as="geometry" />
