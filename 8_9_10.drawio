@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T08:19:49.312Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="E5wl6G_fV85bVQPwd8tB" version="20.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-21T08:21:15.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="S_f_Y425ZiTI3Ac9C5_I" version="20.4.2" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="8">
     <mxGraphModel dx="1929" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="g4FMtZ5G79S8W34q7UUM-42" value="&lt;u&gt;NIF&lt;/u&gt;&lt;br&gt;Nombre&lt;br&gt;Fecha_de_Nacimiento&lt;br&gt;Titulación" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="624" y="153" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g4FMtZ5G79S8W34q7UUM-44" value="&lt;u&gt;URL&lt;/u&gt;&lt;br&gt;Título&lt;br&gt;Temática&lt;br&gt;Autor&lt;br&gt;Tipo" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="g4FMtZ5G79S8W34q7UUM-44" value="&lt;u&gt;URL&lt;/u&gt;&lt;br&gt;Título&lt;br&gt;Temática&lt;br&gt;Autor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="629" y="333" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="g4FMtZ5G79S8W34q7UUM-46" value="Nº de Vistas&lt;br&gt;Publicidad&lt;br&gt;Marcos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
