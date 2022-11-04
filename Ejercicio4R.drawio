@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T09:55:30.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7bzt3HvFzkMjK5pIauLb" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T09:55:40.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cDhNNvjqW4S0nkQLIWiG" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1021" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -170,7 +170,7 @@
             <mxPoint x="680" y="-690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="okRw6rHbWr5UuUVafP1f-14" value="COMPRA_MOVIL {CódTienda | CódProveedor | CódMóvil}" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="okRw6rHbWr5UuUVafP1f-14" value="COMPRA_MOVIL {Domicilio | CódProveedor | CódMóvil}" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="529" y="-390" width="640" height="80" as="geometry" />
         </mxCell>
         <mxCell id="okRw6rHbWr5UuUVafP1f-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=24;endFill=1;exitX=0.418;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="okRw6rHbWr5UuUVafP1f-14">
