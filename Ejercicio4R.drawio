@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T09:48:26.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_JGqvtD9RXzD_zV4t7t-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T09:49:33.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1zslyN1UdM6lKmvu5lco" version="20.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1736" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="H4ovYLmENnHMqPd44oOz-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CLIENTE&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="300" y="277" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H4ovYLmENnHMqPd44oOz-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Empleado: &lt;u&gt;CodEmpleado&lt;/u&gt;, Nombre, Apellidos, Teléfono, Correo, NumCuenta&lt;br&gt;Cliente: &lt;u&gt;DNI&lt;/u&gt;, Nombre, Apellidos, Teléfono, Correo&lt;br&gt;Móvil: &lt;u&gt;Código&lt;/u&gt;, PrecioCoste, PrecioVenta&lt;br&gt;NombreMovil: &lt;u&gt;Código&lt;/u&gt;, Fabricante, Marca, Modelo&lt;br&gt;Tienda: &lt;u&gt;Domicilio&lt;/u&gt;, Teléfono, PrecioAlquiler&lt;br&gt;Proveedor: &lt;u&gt;CodProveedor&lt;/u&gt;, Nombre, Teléfono.&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
-          <mxGeometry y="-827" width="659" height="230" as="geometry" />
+        <mxCell id="H4ovYLmENnHMqPd44oOz-10" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Empleado: &lt;u&gt;CodEmpleado&lt;/u&gt;, Nombre, Apellidos, Teléfono, Correo, NumCuenta&lt;br&gt;Cliente: &lt;u&gt;DNI&lt;/u&gt;, Nombre, Apellidos, Teléfono, Correo&lt;br&gt;Móvil: &lt;u&gt;Código&lt;/u&gt;, PrecioCoste, PrecioVenta&lt;br&gt;NombreMovil: &lt;u&gt;Código&lt;/u&gt;, Fabricante, Marca, Modelo&lt;br&gt;Tienda: &lt;u&gt;Domicilio&lt;/u&gt;, Teléfono, PrecioAlquiler&lt;br&gt;Proveedor: &lt;u&gt;CodProveedor&lt;/u&gt;, Nombre, Teléfono.&lt;br&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;resizeWidth=0;resizable=1;fixedWidth=0;movable=1;movableLabel=0;imageHeight=24;fillOpacity=100;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-820" width="960" height="230" as="geometry" />
         </mxCell>
         <mxCell id="H4ovYLmENnHMqPd44oOz-22" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" parent="1" source="H4ovYLmENnHMqPd44oOz-11" target="H4ovYLmENnHMqPd44oOz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -148,9 +148,6 @@
         </mxCell>
         <mxCell id="nHZMRzlQvYpWQ6ptfXkq-2" value="1:N" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="250" y="547" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="okRw6rHbWr5UuUVafP1f-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="-520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
