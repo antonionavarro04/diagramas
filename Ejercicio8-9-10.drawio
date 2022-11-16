@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:44:08.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="E_-CuCKzPhKDICY3Fmae" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:45:34.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U9qKSdpor_xVeL1CloEQ" version="20.5.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Ejercicio 8">
     <mxGraphModel dx="2170" dy="2804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -909,7 +909,7 @@
         <mxCell id="3_LfyJ9s6M6mEDg306fG-88" value="USUARIO {&lt;u&gt;NIF&lt;/u&gt; | Nombre | FechaDeNacimiento | Titulación" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry y="580" width="990" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3_LfyJ9s6M6mEDg306fG-89" value="PAGINA_WEB {Temática | &lt;u&gt;URL&lt;/u&gt;&amp;nbsp;| Título}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="3_LfyJ9s6M6mEDg306fG-89" value="PAGINA_WEB {Temática | &lt;u&gt;URL&lt;/u&gt;&amp;nbsp;| Título | &lt;u&gt;NIFUsuario&lt;/u&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
           <mxGeometry y="797" width="990" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3_LfyJ9s6M6mEDg306fG-90" value="CONVENCIONAL {Marcos | NoVisitas | &lt;u&gt;URL&lt;/u&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
@@ -956,6 +956,12 @@
               <mxPoint x="196" y="716" />
               <mxPoint x="146" y="716" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3_LfyJ9s6M6mEDg306fG-99" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.262;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;entryX=0.076;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3_LfyJ9s6M6mEDg306fG-89" target="3_LfyJ9s6M6mEDg306fG-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156.51999999999998" y="762.22" as="sourcePoint" />
+            <mxPoint x="250" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
