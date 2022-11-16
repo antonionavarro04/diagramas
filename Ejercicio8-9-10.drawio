@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T10:52:31.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OgUEAC6UJbzypk1Kw3Ii" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T10:56:40.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="E7GeJP3N-ldhyyrTLZyW" version="20.5.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Ejercicio 8">
     <mxGraphModel dx="868" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1038,7 +1038,7 @@
         <mxCell id="klb8onUg9_g-19eYWuOV-2" value="EMPLEADO {&lt;u&gt;DNI&lt;/u&gt;&amp;nbsp;| Nombre | Sueldo}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="620" width="1160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="orjSQkG3aC53-CzAk0R4-1" value="JEFE {&lt;u&gt;DNIJefe | Nombre&lt;/u&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="orjSQkG3aC53-CzAk0R4-1" value="ES_JEFE {&lt;u&gt;DNIJefe&lt;/u&gt; | &lt;u&gt;Nombre&lt;/u&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="680" width="1160" height="30" as="geometry" />
         </mxCell>
       </root>
