@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T11:21:55.149Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DCdNipYWfZ6hwB667w-p" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T11:22:16.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="i6W3racsz_rQYHteVocC" version="20.5.3" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Ejercicio 8">
     <mxGraphModel dx="868" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -748,12 +748,6 @@
               <mxPoint x="245" y="630" />
               <mxPoint x="75" y="630" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3_LfyJ9s6M6mEDg306fG-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.148;exitY=1.074;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.156;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="166.51999999999998" y="772.22" as="sourcePoint" />
-            <mxPoint x="174.44000000000005" y="815.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3_LfyJ9s6M6mEDg306fG-101" value="CREA_PAGINA {&lt;u&gt;NIFUsuario&lt;/u&gt; | &lt;u&gt;URL&lt;/u&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
